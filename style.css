@@ -1,0 +1,67 @@
+body {
+  height: 100%;
+  font-family: 'Overlock', cursive;
+}
+
+.mono {
+  font-family: 'Source Code Pro' ;
+  margin: 10px 0 0 10px;
+  color: #000;
+}
+
+#logo:hover {
+  text-decoration: none;
+  text-shadow: 0 0 1px #000;
+}
+
+#header {
+  background: transparent;
+}
+
+.floating-back {
+  margin-top: 200px;
+  background-color: rgba(238,238,224,0.5);
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: -1px -1px 20px #000, 1px 1px 20px #000;
+}
+
+#backgroundImage {
+  width: 400px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 10px #333;
+}
+
+blockquote p {
+  font-size: 42px;
+  margin-top: 60px;
+}
+
+blockquote footer {
+  font-size: 25px;
+  font-style: italic;
+  font-color: #222;
+}
+
+#twitter-div {
+  margin-right: 200px;
+}
+
+.links {
+  color: #000;
+  margin-top: 20px;
+  font-family: 'Source Code Pro' ;
+  font-size: 25px;
+}
+
+.links:hover {
+  text-shadow: 0 0 1px #000;
+  cursor: pointer;
+}
+
+#copy-link:hover {
+  text-decoration: none;
+  text-shadow: 0 0 1px #000;
+}
+
+

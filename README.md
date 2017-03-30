@@ -4,4 +4,4 @@
 
 **User Story:** I can press a button to tweet out a quote.
 
-Find the live version for this at: [https://gmunker.github.io/Quote-Gen/]](https://gmunker.github.io/Quote-Gen/) 
+Find the live version for this at: [https://gmunker.github.io/Quote-Gen/](https://gmunker.github.io/Quote-Gen/) 
